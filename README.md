@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# React Image Gallery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Una galería de imágenes interactiva construida con React que incluye características avanzadas de visualización y manipulación de imágenes.
+
+## Características
+
+- Visualización de imágenes en formato grid
+- Lightbox para ver imágenes en pantalla completa
+- Controles de zoom (ampliar/reducir)
+- Navegación entre imágenes
+- Función de descarga de imágenes
+- Diseño responsivo
+- Animaciones suaves
+- Información detallada de cada imagen
+
+## Demo
+
+Puedes ver la aplicación en vivo aquí: [React Image Gallery](https://jeisonviloria.github.io/tercer-intento-react)
 
 ## Available Scripts
 
